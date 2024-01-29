@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 0.0.6
+
+### Patch Changes
+
+- [#5923](https://github.com/medusajs/medusa/pull/5923) [`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83) Thanks [@fPolic](https://github.com/fPolic)! - feat: Sales Channel module
+
+- Updated dependencies [[`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83)]:
+  - @medusajs/modules-sdk@1.12.8
+
 ## 0.0.5
 
 ### Patch Changes

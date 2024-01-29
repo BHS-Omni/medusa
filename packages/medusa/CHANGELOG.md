@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.20.2
+
+### Patch Changes
+
+- [#5923](https://github.com/medusajs/medusa/pull/5923) [`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83) Thanks [@fPolic](https://github.com/fPolic)! - feat: Sales Channel module
+
+- [#6197](https://github.com/medusajs/medusa/pull/6197) [`d1c18a309`](https://github.com/medusajs/medusa/commit/d1c18a3090d71c68a98343fdbb53516f416504c5) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(stock-location, medusa, types): add `q` and `order` query parameters to stock locations list endpoint
+
+- [#6240](https://github.com/medusajs/medusa/pull/6240) [`360c71e39`](https://github.com/medusajs/medusa/commit/360c71e39a31b96e82828563f46f8269b80595cc) Thanks [@srindom](https://github.com/srindom)! - fix(medusa): improve error message on incorrect service export
+
+- Updated dependencies [[`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83)]:
+  - @medusajs/core-flows@0.0.6
+  - @medusajs/link-modules@0.2.8
+  - @medusajs/modules-sdk@1.12.8
+
 ## 1.20.1
 
 ### Patch Changes

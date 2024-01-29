@@ -1,5 +1,13 @@
 # @medusajs/types
 
+## 1.11.12
+
+### Patch Changes
+
+- [#5923](https://github.com/medusajs/medusa/pull/5923) [`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83) Thanks [@fPolic](https://github.com/fPolic)! - feat: Sales Channel module
+
+- [#6197](https://github.com/medusajs/medusa/pull/6197) [`d1c18a309`](https://github.com/medusajs/medusa/commit/d1c18a3090d71c68a98343fdbb53516f416504c5) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(stock-location, medusa, types): add `q` and `order` query parameters to stock locations list endpoint
+
 ## 1.11.11
 
 ### Patch Changes

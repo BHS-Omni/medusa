@@ -1,5 +1,15 @@
 # @medusajs/link-modules
 
+## 0.2.8
+
+### Patch Changes
+
+- [#5923](https://github.com/medusajs/medusa/pull/5923) [`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83) Thanks [@fPolic](https://github.com/fPolic)! - feat: Sales Channel module
+
+- Updated dependencies [[`3db2f95e6`](https://github.com/medusajs/medusa/commit/3db2f95e65909f4fff432990b48be74509052e83), [`d1c18a309`](https://github.com/medusajs/medusa/commit/d1c18a3090d71c68a98343fdbb53516f416504c5)]:
+  - @medusajs/modules-sdk@1.12.8
+  - @medusajs/types@1.11.12
+
 ## 0.2.7
 
 ### Patch Changes
